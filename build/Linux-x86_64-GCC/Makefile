@@ -186,6 +186,10 @@ OBJS_OTHERS = \
   f16_to_ui64_r_minMag$(OBJ) \
   f16_to_i32_r_minMag$(OBJ) \
   f16_to_i64_r_minMag$(OBJ) \
+  fall_reciprocal$(OBJ) \
+  f16_classify$(OBJ) \
+  f32_classify$(OBJ) \
+  f64_classify$(OBJ) \
   f16_to_f32$(OBJ) \
   f16_to_f64$(OBJ) \
   f16_to_extF80$(OBJ) \
